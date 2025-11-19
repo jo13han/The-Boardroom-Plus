@@ -1,0 +1,11 @@
+Model Information:
+* title:	TV with a wall mount
+* source:	https://sketchfab.com/3d-models/tv-with-a-wall-mount-a705d9f31bb04b17b6da244e6ea38e2f
+* author:	Karosio (https://sketchfab.com/Karosio)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TV with a wall mount" (https://sketchfab.com/3d-models/tv-with-a-wall-mount-a705d9f31bb04b17b6da244e6ea38e2f) by Karosio (https://sketchfab.com/Karosio) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

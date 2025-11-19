@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARVR Project</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <canvas class="webgl"></canvas>
+    <div id="controls" style="position: absolute; top: 20px; right: 20px; background: rgba(0,0,0,0.7); padding: 20px; border-radius: 10px; color: white; font-family: Arial, sans-serif; min-width: 250px;">
+        <h3 style="margin-top: 0;">Lighting Controls</h3>
+        <div style="margin-bottom: 15px;">
+            <label style="display: block; margin-bottom: 5px;">Ambient Light: <span id="ambientValue">0.4</span></label>
+            <input type="range" id="ambientSlider" min="0" max="2" step="0.1" value="0.4" style="width: 100%;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label style="display: block; margin-bottom: 5px;">Point Light Intensity: <span id="pointValue">15</span></label>
+            <input type="range" id="pointSlider" min="0" max="50" step="1" value="15" style="width: 100%;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label style="display: block; margin-bottom: 5px;">Point Light Range: <span id="rangeValue">40</span></label>
+            <input type="range" id="rangeSlider" min="10" max="100" step="5" value="40" style="width: 100%;">
+        </div>
+        <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.3);">
+            <p style="margin: 5px 0; font-size: 12px;">Controls:</p>
+            <p style="margin: 5px 0; font-size: 12px;">WASD - Move</p>
+            <p style="margin: 5px 0; font-size: 12px;">Space - Move Up</p>
+        </div>
+    </div>
+    <script type="module" src="./script.js"></script>
+</body>
+</html>
