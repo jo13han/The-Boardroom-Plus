@@ -1,4 +1,4 @@
-# ThreeJS Project – Conference Hall MBA Block, GJBC PESU
+# The Boardroom Plus – Conference Hall MBA Block, GJBC PESU
 
 An interactive WebGL experience built with [Three.js](https://threejs.org/) and Vite.  
 The scene recreates a modern meeting space complete with textured furniture, architectural elements, orbit + WASD navigation, lighting controls, and basic interactivity (e.g., reversible ceiling fans).
